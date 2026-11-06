@@ -62,9 +62,15 @@ In the game
 -----------
 
 - The skill screen shows the new and changed skills with their texts.
-- World events roll at a 60% chance every 75 minutes (about one every two hours), with a 5-minute grace period after
-  loading. None comes while you are in a base or near a living boss, and you hear an event's music only within 100 m of it.
+- World events roll on one clock for the whole world: a 60% chance every 45 minutes (about one every 75 minutes), for one
+  player outdoors, with a 5-minute grace period after loading. The Fell Incursion comes only from that roll, to a player
+  inside the Shroud, and its rift no longer fills the air with fog. None comes while you are in a
+  base or near a living boss, and you hear an event's music only within 100 m of it.
   Ordinary hostile creatures, including the Fell, have a 1.0% chance to become elites (spaced at least 80 m apart, with a 2-minute cooldown per player).
+- Fighting an elite: before a big move, a ring of dots on the ground shows where it will land, and a second ring grows
+  until it strikes: step out or dodge. The dots over its emblem are its break bar: every hit fills it, and a parry, a
+  backstab, a hit during its warning or a dodged move fill it fast. Full, it is **Opened**: it staggers and takes
+  more damage, and a hit at low Health finishes it. Kill it and its followers lose their courage; some run.
 - Lure: while sneaking, select it with Next mod skill (Z by default), then hold Use mod skill (G) to aim the teal
   ring. Release to throw the lure there. Next mod skill cancels the aim; the cooldown starts only when you throw.
 - The main menu plays Blight and Banner's theme. The game's own music plays normally in a world.
