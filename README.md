@@ -1,31 +1,25 @@
 Blight and Banner for Enshrouded
 =================================
 
-I originally just wanted to build something for me and my friend to play coop on.
+**Three new classes, a world that hunts you back, and loot worth bleeding for.**
 
-Basically an attempt to change how enshrouded plays, into something closer to what I wish it would be. In short:
-- Randomized loot and gear for endgame
-- Random encounter across the world
-- Random elites, with random affixes
-- Endgame difficulty scaling
-- You can really powertrip; build strange characters
-- Stealth is viable
-- Melee is a lot stronger
-- Active skills to engage combat more
-- ...
+Blight and Banner turns Enshrouded into a darker, harder-hitting action RPG. You get three new classes, a skill tree
+that goes to 7/7, named elite monsters with real tells, corrupted legendary loot, thirteen world events, a banner that
+grows with your fame, and five oaths to swear against the Princes who murdered their king. It plays solo or in co-op,
+and everything works for joined friends as well as the host.
 
-There is functionality which attempts to log/send crashes. No ill intent. Just wanted to pick up on what made my friends game crash.
-
-Very much beta stage at this moment. Might be unbalanced and buggy. Hopefully you think it's fun.
-
-It could easily break by updates to the main game. Working as of 2026-11-16.
-
-
-
-See LLM summary below for detailed info
+It comes with its own build of EMF (the Enshrouded Modding Framework) and installs it for you: you need nothing else.
+Install: see "Install (once)" below. One download, one click, automatic updates after that.
 
 What is in it
 -------------
+
+### The story
+
+Five Princes murdered their father, the Old King of the Pale Kingdom, in his bed and broke his heart, the Ember, into
+five curses. His last loyal soldiers, the Emberguard, died on the mountain with its splinters in their chests. You
+are one of the Flameborn risen from their graves, and you swear their five unfinished oaths again, one Prince's
+champion at a time.
 
 ### Three new classes
 
