@@ -1,9 +1,138 @@
 Blight and Banner for Enshrouded
 =================================
 
-A mod for Enshrouded: new skills and classes (Assassin, Savage, Spellblade), stronger elite enemies, world events and
-corrupted loot. It comes with its own build of EMF (the Enshrouded Modding Framework), which it installs with it: you
-do not need anything else.
+**Three new classes, a world that hunts you back, and loot worth bleeding for.**
+
+Blight and Banner turns Enshrouded into a darker, harder-hitting action RPG. You get three new classes, a skill tree
+that goes to 7/7, named elite monsters with real tells, corrupted legendary loot, thirteen world events, a banner that
+grows with your fame, and five oaths to swear against the Princes who murdered their king. It plays solo or in co-op,
+and everything works for joined friends as well as the host.
+
+It comes with its own build of EMF (the Enshrouded Modding Framework) and installs it for you: you need nothing else.
+Install: see "Install (once)" below. One download, one click, automatic updates after that.
+
+What is in it
+-------------
+
+### The story
+
+Five Princes murdered their father, the Old King of the Pale Kingdom, in his bed and broke his heart, the Ember, into
+five curses. His last loyal soldiers, the Emberguard, died on the mountain with its splinters in their chests. You
+are one of the Flameborn risen from their graves, and you swear their five unfinished oaths again, one Prince's
+champion at a time.
+
+### Three new classes
+
+**The Assassin**: the dagger fighter who is never seen.
+- Dodge while sneaking to slip into **Stealth**: every enemy loses you, and your first hit is a **Sneak Attack** for
+  x3.5 damage, far more with daggers from behind.
+- **Slip Away**: a dagger kill from Stealth drops you straight back into it. Chain kills through a camp.
+- **Shroud Step**: blink up to 40 m. Land behind an unaware enemy and strike as you arrive.
+- **Lure**: throw a noise and watch the patrol walk over to search it.
+- A **Sightlines radar** shows every enemy within 60 m and their vision cones; out of sight, you move faster.
+- **Lethal Dose** executes weakened enemies. **Death Echo** spills a Sneak Attack onto a second victim. **Plunder**
+  puts a kill's loot straight into your bag.
+
+**The Spellblade**: a melee mage. Your sword casts your spells.
+- One-handed swords scale from **Intelligence**.
+- **Spellstrike**: sword hits cast your equipped spell at the target. Change the spell, change the element.
+- Earn Mana by fighting well: **Siphon Edge** on hits, **Mana Tide** for not getting hit, **Arcane Riposte** for
+  parries (it throws your spell back at the attacker).
+- **Overflow**: Mana gained at full is stored, then released in one charged blow.
+- **Blink Strike** to a foe 12 m away, even in the air, and snap back. **Mirror Image** leaves a double to return to.
+- **Mana Ward** pays part of every hit with Mana. **Lone Blade** rewards fighting without a shield.
+
+**The Savage**: a berserker with a wolf pack.
+- **Berserker fists**: with any melee weapon, punch at three times a bare fist's power, each punch lunging you in.
+- **Rage**: hits, parries and war cries build stacks of damage, attack speed, life steal and stagger resistance.
+- **Bloodied**: below half Health you get tougher and hit harder, up to double damage.
+- **Two bonded wolves** follow you everywhere and come back after they fall.
+- **Four War Cries** on hotkeys: **Seismic** (a cratering shockwave), **Enduring** (no stagger), **Infernal** (marked
+  foes explode) and **Ancestral** (spirits chain kills through a pack).
+- **Rend** bleeds your foes. **Defiance**: hit an enemy during its attack's warning to interrupt it.
+
+Each class reworks a part of the game's own skill tree, so you find it on the skill screen.
+
+### A deeper skill tree
+
+- Skills that stopped at 3/3 now go to **7/7**, each rank worth the same as the first three.
+- Four new melee active skills: **Meteor Drop** (leap high, crash down for up to 500% weapon damage), **Sunder**,
+  **Blade Dance** (flash between up to 6 enemies) and **Point Strike** (a thrust that breaks guards).
+- Reworked skills: melee attack speed from Finesse, Swift Blades and Heavy Hitter, Radiant Aura that burns every
+  enemy fighting you, Bloodthirst, Second Wind, Skull Companions from Necromancer, and more.
+- **Flow**: mix light and charged attacks to build melee damage. **Smithing**: repair everything you carry, anywhere.
+- **Saved builds**: keep up to 5 skill trees with their skill bars and switch inside a base.
+
+### Combat for every character
+
+- **Crits from your attributes**: Dexterity gives crit chance, Strength gives crit damage, and almost any hit can crit.
+- **Poise and Stagger**: every hit fills an enemy's stagger bar, and a staggered enemy is open to a Merciless Attack.
+  You get Poise too, mostly from gear, so heavy armour shrugs off flinches and knockdowns.
+- **The lunge**: melee attacks close the gap to the enemy in front of you and stop on contact. Gear and skills
+  extend its reach.
+- **A better dodge**: the roll goes farther and faster with your speed.
+- **A freer camera** that looks further up.
+
+### Elite enemies
+
+- About one hostile creature in a hundred rises as an **elite**: bigger, far tougher, with a name, a faction emblem and
+  up to 16 affixes from five courts (Storm, Death, Blood, Hunt, Shroud). Every affix has a counter.
+- **Readable fights**: before a big move, rings on the ground show where it lands. Step out or dodge.
+- **The break bar**: hits, parries, backstabs and dodges fill it. Full, the elite is **Opened**: stunned and taking
+  much more damage.
+- **Packs**: an elite's followers share its powers, and when the leader falls, they break and some run. Some elites
+  are **Devourers** that eat their own minions to grow, unless you stop the feast.
+- **Grudges**: elites earn titles from their deeds, and a slain elite's heir may come looking for you.
+- **Living camps** grow while you cut through them easily and thin out when you struggle.
+
+### Corrupted loot
+
+- Elites and won world events drop **corrupted items**: Legendary, fully upgraded, with perk tiers above the game's
+  best.
+- Each carries one or two of about 35 **corrupted powers**: Arc, Execute, Doom, Soul Harvest, Wither, Lightning Rod,
+  Grave's Refusal, Galestep, and **Bargains**, strong boons with a price.
+- **Every piece of gear rolls a bonus of its own**, so two copies of the same sword are not the same. Some rolls feed
+  the Assassin, the Spellblade or the Savage.
+- Corrupted items show on their own Gothic relic card, with a comparison to what you wear.
+
+### Thirteen world events
+
+One roll for the whole world brings an event about every 75 minutes, at its own time of day, with its own music, goals
+and a guaranteed corrupted item for everyone who took part.
+
+- **Night Hunter**: a named champion stalks you through the night.
+- **Fell Incursion**: three waves pour from a rift in the Shroud, ending with the Rift Warden.
+- **Vukah Warband**: an army marches past. Leave it alone, or raid it for its war chest.
+- **Scavenger Caravan**: kill the Master before the caravan escapes.
+- **Buried Caravan**: hold a dig site for three minutes against Scavenger waves and their boss.
+- **Great Hunt**: follow a legendary beast's blood trail across three lairs to its den.
+- **Heist**: sneak into a fortress, take the vault's hoard and get out unseen.
+- **Necromancer's Vigil**: a Necromancer who rises twice more, worse each time.
+- **Gilded Thief**: a glittering runner that sheds runes with every hit. Catch it before it vanishes.
+- **The Wager**: choose your own curses before the waves come. More curses, more reward.
+- **Fallen Star**: three factions brawl for a fallen star's crater while you hold it.
+- **Nemesis**: whatever last killed you comes back, stronger, named for your death.
+- **The Games**: everyone is called to a sunken arena for three solo rounds while the others watch from the stands.
+
+### Notoriety, your banner and the Oaths
+
+- Kill elites and win events to climb **ten ranks, Squire to Emperor**. Higher ranks bring tougher elites and better
+  loot. Dying costs it all.
+- **Your banner** flies over your head in your own colours and emblem, grows grander with each rank, and falls when
+  you die.
+- **The Oaths**: past Emperor, swear five oaths at five camps across the world. Light the braziers, plant your banner,
+  defeat a Prince's champion, then kneel. Each oath hardens every monster in the world and earns you a title.
+- **Raise the Standard**: plant your banner on top of an Ancient Spire and every monster around it rises to your
+  level. Early regions become endgame ground.
+
+### Interface, music and voices
+
+- A HUD for each class, a mod menu on **K** (skills, banner, HUD, controls, your character's numbers) and a personal
+  skill bar with four rebindable slots.
+- Combat text and an optional damage breakdown, both switchable.
+- A Gothic look for the menus, skill bar and item cards, with hand-painted skill icons.
+- Its own main-menu theme, event music and Rage music; a fully voiced oath rite with the Princes, the Ember and your
+  own character; an arena announcer; and new sounds for the skills, hits and loot. Every voiced line has subtitles.
 
 What you need
 -------------
@@ -103,11 +232,19 @@ Your saves
 What it installs, and what it contacts
 --------------------------------------
 
-- In the game folder: dinput8.dll and the emf folder.
+- In the game folder: dinput8.dll and the emf folder. The mod never changes the game's files.
 - The updater: %LOCALAPPDATA%\BlightAndBanner (it lives outside the game folder, so a game update or a reinstall of
   the mod never breaks the shortcut), and the shortcut on your desktop.
 - At each start with the shortcut the updater asks GitHub for the latest release (api.github.com, and GitHub's
-  download server when there is a new build). It sends nothing about you or your PC. The mod itself contacts nothing.
+  download server when there is a new build). The mod itself contacts nothing.
+- Crash reports: when the game crashed while the mod ran, the next start with the shortcut sends a short report to
+  the mod's author (through a small relay that keeps it for 60 days, readable only by the mod's author; the window
+  says when one was sent).
+  It holds the error and where in the game it happened, the game and mod builds, your graphics card, a random number
+  that tells your PC's reports apart, and the last lines of the game's and EMF's logs from before the crash (they can
+  name the players in your world). Your Windows user name and Steam account number are taken out; the memory dump
+  stays on your PC. A copy of each report is in %LOCALAPPDATA%\BlightAndBanner\crash_reports. To stop it: the mod's
+  settings, Interface, "Send crash reports" off. Apart from crash reports, nothing about you or your PC is sent.
 
 Problems
 --------
@@ -118,8 +255,9 @@ Problems
   game and start it with the shortcut.
 - "Could not update": the window says why. The game starts with the build you have; the next start tries again.
   GitHub allows about 60 checks an hour from one address.
-- The game crashes or the mod does not show: send the logs below. To play without the mod meanwhile, start the game
-  with Steam's Play.
+- The game crashes: start it again with the shortcut, which sends the crash report (above). If you turned crash
+  reports off, or the mod does not show, send the logs below. To play without the mod meanwhile, start the game with
+  Steam's Play.
 - Your antivirus removed dinput8.dll: mod loaders are sometimes flagged by mistake. Allow it, or install again.
 - What to send when asking for help: <game folder>\emf\emf_core.log and %LOCALAPPDATA%\BlightAndBanner\updater.log.
 
