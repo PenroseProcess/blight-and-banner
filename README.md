@@ -18,6 +18,12 @@ There is functionality which attempts to log/send crashes. No ill intent. Just w
 
 Very much beta stage at this moment. Might be unbalanced and buggy. Hopefully you think it's fun.
 
+It could easily break by updates to the main game. Working as of 2026-11-16.
+
+
+
+See LLM summary below for detailed info
+
 What is in it
 -------------
 
